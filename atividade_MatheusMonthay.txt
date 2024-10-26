@@ -1,0 +1,59 @@
+## Exemplos de tipos de malwares
+	1. RANSOMWARE -> Locky, WannaCry,Bad Rabbit Fonte: https://www.kaspersky.com.br/resource-center/threats/ransomware-attacks-and-types
+	2. SPYWARE -> Keylogger, screenlogger, adware e stalkerware. Fonte: https://www.kaspersky.com.br/resource-center/threats/types-of-spyware
+	3. TROJAN -> Backdoor Trojan, Downloader Trojan, Spy Trojan. Fonte: https://gatefy.com/pt-br/blog/o-que-e-trojan/
+	4. BACKDOOR-> Worms como Sobig e Mydoom, cavalos de Troia batizados como backdoors, backdoor assimétrico. Fonte: https://pt.wikipedia.org/wiki/Backdoor
+	5. WORMS -> Sobig, Mydoom e SQL Slammer. Fonte: https://www.kaspersky.com.br/resource-center/threats/types-of-malware
+
+## Exemplos de ataques reais de malwares
+
+1. CovidLock, ransomware, 2020
+O medo em relação ao Coronavírus (COVID-19) tem sido muito explorado por cibercriminosos. O ransomware CovidLock é um exemplo. O ransomware infecta as vítimas via arquivo malicioso. A promessa do arquivo é oferecer mais informações sobre a doença.
+
+O problema é que, depois de instalado, o CovidLock criptografa dados de dispositivos Android e nega acesso dos dados para as vítimas. Para liberar o acesso, é preciso pagar o resgate de USD 100 por dispositivo.
+
+2. LockerGoga, ransomware, 2019
+O LockerGoga é um ransomware que ganhou os noticiários em 2019 por infectar grandes corporações no mundo, como, por exemplo, a Altran Technologies e a Hydro. É estimado que ele tenha causado prejuízos de milhões de dólares em ataques avançados e direcionados. 
+
+As infecções do LockerGoga envolvem e-mails maliciosos, golpes de phishing e também o roubo de credenciais. O LockerGoga é considerado uma ameaça muito perigosa porque bloqueia completamente o acesso das vítimas ao sistema.
+
+3. Emotet, trojan, 2018
+O Emotet é um trojan que ficou famoso, em 2018, depois que o Department of Homeland Security, dos EUA, o definiu como um dos malwares mais perigosos e destrutivos. O motivo de tanto alarde é que o Emotet é muito usado em casos de roubos de informações financeiras, de logins bancários e até de criptomoedas, como bitcoin. 
+
+O principal vetor de infecção são e-mails maliciosos na forma de campanhas de spam e phishing. 2 exemplos marcantes são o caso do banco chileno Consorcio, com prejuízo de USD 2 milhões, e o caso da cidade de Allentown, na Pensilvânia, com perdas de USD 1 milhão.
+
+4. WannaCry, ransomware, 2017
+Um dos piores ataques de ransomware da história atende pelo nome de WannaCry, introduzido por meio de e-mails de phishing, em 2017. A ameaça explora uma vulnerabilidade no Windows.
+
+É estimado que mais de 200 mil pessoas foram atingidas em todo o mundo pelo WannaCry, incluindo hospitais, universidades e grandes empresas, como FedEx, Telefonica, Nissan e Renault. O prejuízo causado pelo WannaCry ultrapassa USD 4 bilhões.
+
+5. Petya, ransomware, 2016
+Ao contrário da maioria dos ransomwares, o Petya atua bloqueando todo o sistema operacional da máquina. Quero dizer, bloqueando o sistema Windows. Para liberá-lo, a vítima tem que pagar um resgate. 
+
+Estima-se que as perdas envolvendo o Petya e suas variações mais novas e destrutivas cheguem a USD 10 bilhões desde que ele foi lançado em 2016. Dentre as vítimas, estão bancos, aeroportos, empresas de petróleo e empresas de transporte de diferentes partes do mundo.
+
+## ATAQUES DO GRUPO LAZARUS
+
+O grupo lazarus fez campanhas que receberão os seguintes nomes Operation Flame, Operation 1Mission, Operation Troy, DarkSeoul e Ten Days of Rain.
+
+## 3 exemplos de ataques phishing
+
+1. Phishing tradicional
+O cibercriminoso envia uma mensagem que parece legítima para conseguir a confiança do usuário. 
+
+2. Spear phishing
+O ataque é direcionado a um indivíduo específico. Por exemplo, um invasor pode tentar enganar um funcionário para que ele clique em um link e envie informações privadas. 
+
+3. Whaling
+O ataque é direcionado a pessoas importantes, como um CEO ou CFO, e os comunicados fraudulentos parecem vir de alguém muito experiente.
+
+## Exemplo de ataque Ddos.
+
+https://www.cloudflare.com/pt-br/learning/ddos/famous-ddos-attacks/
+
+## Exemplos de vazamentos de dados
+
+https://www.aser.com.br/7-casos-de-vazamento-de-dados-em-empresas-de-varejo/#:~:text=7.-,McDonald's,mail%20de%20contato%20e%20CNPJ.
+
+https://www.jota.info/tributos-e-empresas/mercado/vazamentos-de-dados-no-brasil
+
